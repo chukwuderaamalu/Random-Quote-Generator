@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+    display: grid;
+
+  
+place-content: center;
+    }
+
+    .mybtn{
+       padding: 10px;
+
+    }
+
+    .mybtn:hover{
+      cursor: pointer;
+      background-color: burlywood;
+      
+
+    }
